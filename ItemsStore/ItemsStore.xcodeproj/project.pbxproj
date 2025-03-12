@@ -78,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FD1995BB2D81D1D800912B9F /* NetWorking */ = {
+			isa = PBXGroup;
+			children = (
+				FDDFCA932D8083B4008832C6 /* ServiceLayer.swift */,
+			);
+			path = NetWorking;
+			sourceTree = "<group>";
+		};
 		FD2317872D805DB60087366D = {
 			isa = PBXGroup;
 			children = (
@@ -106,7 +114,7 @@
 				FD2317972D805DB60087366D /* ViewController.swift */,
 				FD23179C2D805DB80087366D /* Assets.xcassets */,
 				FDDFCA952D808E0A008832C6 /* JSONModel.swift */,
-				FDDFCA932D8083B4008832C6 /* ServiceLayer.swift */,
+				FD1995BB2D81D1D800912B9F /* NetWorking */,
 				FD23179E2D805DB80087366D /* LaunchScreen.storyboard */,
 				FD2317A12D805DB80087366D /* Info.plist */,
 			);

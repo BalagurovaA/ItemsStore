@@ -7,776 +7,92 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41"
+            uuid = "258BCA16-9102-44D4-9ACB-82FB1A48C4FD"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
+            filePath = "itemsStore/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
-            landmarkName = "gettingData()"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d267a0"
+                  uuid = "258BCA16-9102-44D4-9ACB-82FB1A48C4FD - aa330518a07f6424"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
+                  symbolName = "itemsStore.ViewController.viewDidLoad() -&gt; ()"
                   moduleName = "itemsStore"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
+                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "16"
                   endingLineNumber = "16"
-                  offsetFromSymbolStart = "183">
+                  offsetFromSymbolStart = "396">
                </Location>
                <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d267a0"
+                  uuid = "258BCA16-9102-44D4-9ACB-82FB1A48C4FD - aa330518a07f64fa"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
+                  symbolName = "itemsStore.ViewController.viewDidLoad() -&gt; ()"
                   moduleName = "itemsStore"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "326">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "203">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "349">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "232">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "378">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "403">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "549">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "409">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "555">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "361">
-               </Location>
-               <Location
-                  uuid = "757CBBAD-65E6-44BA-BF3D-AB8665F31F41 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "507">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3BB33B47-AE39-4621-9555-71A0DC935BD7"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "3BB33B47-AE39-4621-9555-71A0DC935BD7 - c7f7bd17f1d26705"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "231">
-               </Location>
-               <Location
-                  uuid = "3BB33B47-AE39-4621-9555-71A0DC935BD7 - c7f7bd17f1d26747"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "19"
-                  endingLineNumber = "19"
-                  offsetFromSymbolStart = "251">
-               </Location>
-               <Location
-                  uuid = "3BB33B47-AE39-4621-9555-71A0DC935BD7 - c7f7bd17f1d26747"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "19"
-                  endingLineNumber = "19"
-                  offsetFromSymbolStart = "280">
-               </Location>
-               <Location
-                  uuid = "3BB33B47-AE39-4621-9555-71A0DC935BD7 - c7f7bd17f1d260da"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
+                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "22"
                   endingLineNumber = "22"
-                  offsetFromSymbolStart = "451">
+                  offsetFromSymbolStart = "376">
                </Location>
                <Location
-                  uuid = "3BB33B47-AE39-4621-9555-71A0DC935BD7 - c7f7bd17f1d260da"
+                  uuid = "258BCA16-9102-44D4-9ACB-82FB1A48C4FD - aa330518a07f6466"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
+                  symbolName = "itemsStore.ViewController.viewDidLoad() -&gt; ()"
                   moduleName = "itemsStore"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "457">
-               </Location>
-               <Location
-                  uuid = "3BB33B47-AE39-4621-9555-71A0DC935BD7 - c7f7bd17f1d260da"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "409">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267a0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "183">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267a0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "326">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "203">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "349">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "232">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "378">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267c3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "348">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267c3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "354">
-               </Location>
-               <Location
-                  uuid = "16F1685B-C5C8-485C-A781-230FDBFFC930 - c7f7bd17f1d267c3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "306">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C44D42E4-C6B8-4A6D-894B-09B7B7A0BC87"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "C44D42E4-C6B8-4A6D-894B-09B7B7A0BC87 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "409">
-               </Location>
-               <Location
-                  uuid = "C44D42E4-C6B8-4A6D-894B-09B7B7A0BC87 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "555">
-               </Location>
-               <Location
-                  uuid = "C44D42E4-C6B8-4A6D-894B-09B7B7A0BC87 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "361">
-               </Location>
-               <Location
-                  uuid = "C44D42E4-C6B8-4A6D-894B-09B7B7A0BC87 - c7f7bd17f1d26781"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "507">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CFBB1E59-3FCA-4E10-8787-C5D97766075F"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "CFBB1E59-3FCA-4E10-8787-C5D97766075F - c7f7bd17f1d26766"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
+                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
                   endingLineNumber = "18"
-                  offsetFromSymbolStart = "633">
+                  offsetFromSymbolStart = "404">
                </Location>
                <Location
-                  uuid = "CFBB1E59-3FCA-4E10-8787-C5D97766075F - c7f7bd17f1d26766"
+                  uuid = "258BCA16-9102-44D4-9ACB-82FB1A48C4FD - aa330518a07f6466"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
+                  symbolName = "itemsStore.ViewController.viewDidLoad() -&gt; ()"
                   moduleName = "itemsStore"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
+                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
                   endingLineNumber = "18"
-                  offsetFromSymbolStart = "585">
+                  offsetFromSymbolStart = "396">
                </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DC2FC73C-8517-4639-A2C3-0B8296FF4856"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
                <Location
-                  uuid = "DC2FC73C-8517-4639-A2C3-0B8296FF4856 - c7f7bd17f1d260da"
+                  uuid = "258BCA16-9102-44D4-9ACB-82FB1A48C4FD - aa330518a07f6459"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
+                  symbolName = "itemsStore.ViewController.viewDidLoad() -&gt; ()"
                   moduleName = "itemsStore"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
+                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "457">
-               </Location>
-               <Location
-                  uuid = "DC2FC73C-8517-4639-A2C3-0B8296FF4856 - c7f7bd17f1d260da"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "409">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5371E7B3-473F-48A8-AF82-6E1A2709AAA0"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "5371E7B3-473F-48A8-AF82-6E1A2709AAA0 - c7f7bd17f1d260bb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "1354">
-               </Location>
-               <Location
-                  uuid = "5371E7B3-473F-48A8-AF82-6E1A2709AAA0 - c7f7bd17f1d260bb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "1306">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2B4C1AF7-A1B4-436A-B4AB-541A57975EE9"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "2B4C1AF7-A1B4-436A-B4AB-541A57975EE9 - c7f7bd17f1d2601c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "1614">
-               </Location>
-               <Location
-                  uuid = "2B4C1AF7-A1B4-436A-B4AB-541A57975EE9 - c7f7bd17f1d2601c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "1566">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B6D4D9D6-10AB-42BF-96B6-45635DAECCAB"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "itemsStore/ServiceLayer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "gettingData()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "B6D4D9D6-10AB-42BF-96B6-45635DAECCAB - c7f7bd17f1d2601c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "1614">
-               </Location>
-               <Location
-                  uuid = "B6D4D9D6-10AB-42BF-96B6-45635DAECCAB - c7f7bd17f1d2601c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in itemsStore.URLData.gettingData() -&gt; ()"
-                  moduleName = "itemsStore"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kristofs/Desktop/ItemsStore/itemsStore/itemsStore/ServiceLayer.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "1566">
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "375">
                </Location>
             </Locations>
          </BreakpointContent>

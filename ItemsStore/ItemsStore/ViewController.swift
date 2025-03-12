@@ -8,16 +8,19 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    private var urlData: URLData?
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .white
-        let urlData = URLData()
-        urlData.gettingData()
         
-        // Do any additional setup after loading the view.
+        urlData = URLData()
+        urlData?.gettingData()
+        
     }
     
+
     
 
 
